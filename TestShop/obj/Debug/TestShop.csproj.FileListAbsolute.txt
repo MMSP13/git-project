@@ -78,3 +78,6 @@ C:\Users\максим\Desktop\смрп1\1\TestShop\obj\Debug\TestShop.csprojReso
 C:\Users\максим\Desktop\смрп1\1\TestShop\obj\Debug\TestShop.Form1.resources
 C:\Users\максим\Desktop\смрп1\1\TestShop\obj\Debug\TestShop.Properties.Resources.resources
 C:\Users\максим\Desktop\смрп1\1\TestShop\obj\Debug\TestShop.csproj.GenerateResource.Cache
+D:\git-project\TestShop\bin\Debug\TestShop.exe.config
+D:\git-project\TestShop\obj\Debug\TestShop.exe
+D:\git-project\TestShop\obj\Debug\TestShop.pdb
