@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" auto-import="true" namespace="TestShop.Model" assembly="TestShop">
+
+  <class name="TestShop.Model.Факультет" table="public.Факультеты"  xmlns="urn:nhibernate-mapping-2.2">
+    <id name="Id" column="id" type="long">
+      <generator class="identity"/>
+    </id>
+    <property name="Название" column="Название" type="String"/>
+  <many-to-one name="idУниверситет" column="idУниверситет" class ="TestShop.Model.Университет" not-null="true"/>
+    
+  </class>
+
+</hibernate-mapping>
